@@ -1,0 +1,24 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreeCodeCamp/shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FreeCodeCamp/shop/issues"
+  },
+  "homepage": "https://github.com/FreeCodeCamp/shop#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-plugin-json": "^1.2.0",
+    "eslint-plugin-markdown": "^1.0.0-beta.6"
+  }
+}
